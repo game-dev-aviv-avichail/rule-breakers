@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 680" width="960" height="680" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#333"/></marker></defs>
+<rect width="960" height="680" fill="#f4f1ea"/>
+<rect x="0" y="0" width="960" height="60" fill="#2b2d42"/>
+<text x="24" y="38" font-size="22" font-weight="bold" fill="#fff">Rule Breakers</text>
+<text x="200" y="38" font-size="16" fill="#cfd2e6">World 1 · Level 4</text>
+<rect x="560" y="12" width="120" height="36" rx="8" fill="#3d405b"/>
+<text x="570" y="35" font-size="13" fill="#cfd2e6">Coins</text>
+<text x="670" y="36" font-size="17" font-weight="bold" fill="#ffd166" text-anchor="end">2 / 5</text>
+<rect x="690" y="12" width="120" height="36" rx="8" fill="#3d405b"/>
+<text x="700" y="35" font-size="13" fill="#cfd2e6">Turns left</text>
+<text x="800" y="36" font-size="17" font-weight="bold" fill="#ffd166" text-anchor="end">9</text>
+<rect x="820" y="12" width="120" height="36" rx="8" fill="#3d405b"/>
+<text x="830" y="35" font-size="13" fill="#cfd2e6">Undo</text>
+<text x="930" y="36" font-size="17" font-weight="bold" fill="#ffd166" text-anchor="end">x2</text>
+<rect x="32" y="76" width="436" height="436" rx="6" fill="#2b2d42"/>
+<rect x="40" y="84" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="100" y="84" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="160" y="84" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="220" y="84" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="280" y="84" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="340" y="84" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="400" y="84" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="40" y="144" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="100" y="144" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="160" y="144" width="60" height="60" fill="#5c5f73" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="220" y="144" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="280" y="144" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="340" y="144" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="400" y="144" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="40" y="204" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="100" y="204" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="160" y="204" width="60" height="60" fill="#5c5f73" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="220" y="204" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="280" y="204" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="340" y="204" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="400" y="204" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="40" y="264" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="100" y="264" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="160" y="264" width="60" height="60" fill="#5c5f73" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="220" y="264" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="280" y="264" width="60" height="60" fill="#5c5f73" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="340" y="264" width="60" height="60" fill="#f4a3a3" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="400" y="264" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="40" y="324" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="100" y="324" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="160" y="324" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="220" y="324" width="60" height="60" fill="#f4a3a3" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="280" y="324" width="60" height="60" fill="#5c5f73" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="340" y="324" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="400" y="324" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="40" y="384" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="100" y="384" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="160" y="384" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="220" y="384" width="60" height="60" fill="#f4a3a3" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="280" y="384" width="60" height="60" fill="#5c5f73" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="340" y="384" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="400" y="384" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="40" y="444" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="100" y="444" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="160" y="444" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="220" y="444" width="60" height="60" fill="#f4a3a3" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="280" y="444" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="340" y="444" width="60" height="60" fill="#ecebe4" stroke="#cfcfc4" stroke-width="1"/>
+<rect x="400" y="444" width="60" height="60" fill="#ffffff" stroke="#cfcfc4" stroke-width="1"/>
+<circle cx="70.0" cy="114.0" r="13" fill="#ffd166" stroke="#c99a1e" stroke-width="2"/>
+<text x="70.0" y="119.0" font-size="14" font-weight="bold" fill="#8a6500" text-anchor="middle">$</text>
+<circle cx="430.0" cy="174.0" r="13" fill="#ffd166" stroke="#c99a1e" stroke-width="2"/>
+<text x="430.0" y="179.0" font-size="14" font-weight="bold" fill="#8a6500" text-anchor="middle">$</text>
+<circle cx="370.0" cy="414.0" r="13" fill="#ffd166" stroke="#c99a1e" stroke-width="2"/>
+<text x="370.0" y="419.0" font-size="14" font-weight="bold" fill="#8a6500" text-anchor="middle">$</text>
+<rect x="58.0" y="398.0" width="24" height="32" rx="3" fill="#8ecae6" stroke="#1d6f8f" stroke-width="2"/>
+<text x="70.0" y="419.0" font-size="13" font-weight="bold" fill="#1d6f8f" text-anchor="middle">?</text>
+<rect x="408.0" y="452.0" width="44" height="44" rx="6" fill="#adb5bd" stroke="#495057" stroke-width="2" stroke-dasharray="5 3"/>
+<text x="430.0" y="472.0" font-size="11" font-weight="bold" fill="#343a40" text-anchor="middle">EXIT</text>
+<text x="430.0" y="487.0" font-size="10" fill="#343a40" text-anchor="middle">locked</text>
+<circle cx="130.0" cy="294.0" r="21" fill="#3a86ff" stroke="#222" stroke-width="2"/>
+<text x="130.0" y="299.0" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">YOU</text>
+<circle cx="250.0" cy="294.0" r="21" fill="#e63946" stroke="#222" stroke-width="2"/>
+<text x="250.0" y="299.0" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">C</text>
+<circle cx="370.0" cy="174.0" r="21" fill="#f77f00" stroke="#222" stroke-width="2"/>
+<text x="370.0" y="179.0" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">P</text>
+<circle cx="430.0" cy="294.0" r="21" fill="#7b2cbf" stroke="#222" stroke-width="2"/>
+<text x="430.0" y="299.0" font-size="12" font-weight="bold" fill="#fff" text-anchor="middle">T</text>
+<line x1="250.0" y1="270.0" x2="250.0" y2="244.0" stroke="#333" stroke-width="3" marker-end="url(#arr)"/>
+<circle cx="250.0" cy="257.0" r="9" fill="#fff" stroke="#333"/>
+<text x="250.0" y="261.0" font-size="11" font-weight="bold" text-anchor="middle">1</text>
+<line x1="370.0" y1="198.0" x2="370.0" y2="224.0" stroke="#333" stroke-width="3" marker-end="url(#arr)" stroke-dasharray="6 4"/>
+<circle cx="370.0" cy="211.0" r="9" fill="#fff" stroke="#333"/>
+<text x="370.0" y="215.0" font-size="11" font-weight="bold" text-anchor="middle">2</text>
+<line x1="430.0" y1="270.0" x2="430.0" y2="244.0" stroke="#333" stroke-width="3" marker-end="url(#arr)"/>
+<circle cx="430.0" cy="257.0" r="9" fill="#fff" stroke="#333"/>
+<text x="430.0" y="261.0" font-size="11" font-weight="bold" text-anchor="middle">3</text>
+<text x="40" y="532" font-size="13" fill="#555">Arrows = what each rival will do next turn (numbers = move order)</text>
+<text x="500" y="90" font-size="18" font-weight="bold" fill="#2b2d42">Rule Board</text>
+<text x="620" y="90" font-size="13" fill="#666">applies to everyone, you too</text>
+<rect x="500" y="106" width="420" height="62" rx="10" fill="#fff" stroke="#e63946" stroke-width="3"/>
+<rect x="500" y="106" width="10" height="62" rx="3" fill="#e63946"/>
+<text x="524" y="132" font-size="16" font-weight="bold" fill="#222">RED FLOOR</text>
+<text x="524" y="154" font-size="13" fill="#555">No one may step on red tiles</text>
+<rect x="800" y="124" width="104" height="26" rx="13" fill="#e63946"/>
+<text x="852" y="142" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">2 turns left</text>
+<rect x="500" y="180" width="420" height="62" rx="10" fill="#fff" stroke="#3a86ff" stroke-width="3"/>
+<rect x="500" y="180" width="10" height="62" rx="3" fill="#3a86ff"/>
+<text x="524" y="206" font-size="16" font-weight="bold" fill="#222">MIRROR</text>
+<text x="524" y="228" font-size="13" fill="#555">Every move goes the opposite way</text>
+<rect x="800" y="198" width="104" height="26" rx="13" fill="#3a86ff"/>
+<text x="852" y="216" font-size="13" font-weight="bold" fill="#fff" text-anchor="middle">1 turn left</text>
+<rect x="500" y="254" width="420" height="62" rx="10" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="710" y="291" font-size="14" fill="#888" text-anchor="middle">Empty slot: drag a card here (max 3 rules)</text>
+<text x="500" y="342" font-size="18" font-weight="bold" fill="#2b2d42">Rivals</text>
+<circle cx="514" cy="370" r="13" fill="#e63946" stroke="#222" stroke-width="1.5"/>
+<text x="514" y="375" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">C</text>
+<text x="536" y="375" font-size="13" fill="#333">Chaser: walks toward you. Catches you = level lost</text>
+<circle cx="514" cy="404" r="13" fill="#f77f00" stroke="#222" stroke-width="1.5"/>
+<text x="514" y="409" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">P</text>
+<text x="536" y="409" font-size="13" fill="#333">Patroller: walks a fixed route, blocks corridors</text>
+<circle cx="514" cy="438" r="13" fill="#7b2cbf" stroke="#222" stroke-width="1.5"/>
+<text x="514" y="443" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">T</text>
+<text x="536" y="443" font-size="13" fill="#333">Thief: grabs the nearest coin. Bump it to get it back</text>
+<rect x="0" y="534" width="960" height="146" fill="#e3ded1"/>
+<text x="40" y="558" font-size="16" font-weight="bold" fill="#2b2d42">Your hand</text>
+<text x="140" y="558" font-size="13" fill="#666">one card per turn · hover a card to preview what changes</text>
+<rect x="40" y="570" width="200" height="96" rx="10" fill="#fff" stroke="#2a9d8f" stroke-width="3"/>
+<rect x="40" y="570" width="200" height="26" rx="10" fill="#2a9d8f"/>
+<rect x="40" y="586" width="200" height="10" fill="#2a9d8f"/>
+<text x="52" y="589" font-size="13" font-weight="bold" fill="#fff">DOUBLE STEP</text>
+<text x="228" y="589" font-size="11" fill="#fff" text-anchor="end">2 turns</text>
+<text x="52" y="620" font-size="13" fill="#333">Everyone moves exactly</text>
+<text x="52" y="638" font-size="13" fill="#333">2 tiles</text>
+<rect x="262" y="570" width="200" height="96" rx="10" fill="#fff" stroke="#8338ec" stroke-width="3"/>
+<rect x="262" y="570" width="200" height="26" rx="10" fill="#8338ec"/>
+<rect x="262" y="586" width="200" height="10" fill="#8338ec"/>
+<text x="274" y="589" font-size="13" font-weight="bold" fill="#fff">WRAP AROUND</text>
+<text x="450" y="589" font-size="11" fill="#fff" text-anchor="end">3 turns</text>
+<text x="274" y="620" font-size="13" fill="#333">Board edges connect</text>
+<text x="274" y="638" font-size="13" fill="#333">left and right</text>
+<rect x="484" y="570" width="200" height="96" rx="10" fill="#fff" stroke="#6c757d" stroke-width="3"/>
+<rect x="484" y="570" width="200" height="26" rx="10" fill="#6c757d"/>
+<rect x="484" y="586" width="200" height="10" fill="#6c757d"/>
+<text x="496" y="589" font-size="13" font-weight="bold" fill="#fff">OPEN WALLS</text>
+<text x="672" y="589" font-size="11" fill="#fff" text-anchor="end">1 turn</text>
+<text x="496" y="620" font-size="13" fill="#333">Grey walls can be</text>
+<text x="496" y="638" font-size="13" fill="#333">walked through</text>
+<rect x="706" y="570" width="200" height="96" rx="10" fill="#fff" stroke="#fb8500" stroke-width="3"/>
+<rect x="706" y="570" width="200" height="26" rx="10" fill="#fb8500"/>
+<rect x="706" y="586" width="200" height="10" fill="#fb8500"/>
+<text x="718" y="589" font-size="13" font-weight="bold" fill="#fff">SWAP</text>
+<text x="894" y="589" font-size="11" fill="#fff" text-anchor="end">instant</text>
+<text x="718" y="620" font-size="13" fill="#333">You trade places with</text>
+<text x="718" y="638" font-size="13" fill="#333">the nearest rival</text>
+</svg>
